@@ -6,4 +6,4 @@
 Real = float(input('digite o valor de Real'))
 Dolar = Real/5.18
 resultado = Dolar
-print (f' o valor em reais, é {Dolar}')
+print (f' o valor em reais, é {Dolar:.2f}')
